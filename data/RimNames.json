@@ -1,0 +1,77 @@
+{
+    "wheels":
+    [
+        {
+            "brand": "HRE",
+            "rims": ["943R", "541R", "549R"]   
+        },
+        {
+            "brand": "5ZIGEN",
+            "rims": ["5ZR", "FN01R", "SUPERSIX", "GN+", "GRAVIS 1"]   
+        },
+        {
+            "brand": "ADR",
+            "rims": ["EMPIRE", "ADRENALINE", "GT-SPORT", "M SPORT", "SOKUDO 8"]   
+        },
+        {
+            "brand": "AR",
+            "rims": ["SHELBY RAZOR", "TORQ-THRUST II", "TORQ-THRUST ST"]   
+        },
+        {
+            "brand": "BBS",
+            "rims": ["GT", "RX", "LM", "CH", "RK", "RS-GT"]   
+        },
+        {
+            "brand": "CL",
+            "rims": ["DAGGER", "INDY", "RETRO", "VIKING"]   
+        },
+        {
+            "brand": "GIOVANNA",
+            "rims": ["BRAKE", "GELLO", "ARARAT"]   
+        },
+        {
+            "brand": "IFORGED",
+            "rims": ["AERO", "EVOLUTION", "MARQUIS"]   
+        },
+        {
+            "brand": "KONIG",
+            "rims": ["BLATANT", "IMAGINE", "THEORY"]   
+        },
+        {
+            "brand": "OZ",
+            "rims": ["SUPERLEGGERA", "SUPERTURISMO", "OPERA", "SUPERLEGGERA III", "LEONARDO"]   
+        },
+        {
+            "brand": "RACINGHART",
+            "rims": ["CP", "CX", "MULTI C4", "CR"]   
+        },
+        {
+            "brand": "ROJA",
+            "rims": ["FORMULA 1", "FORMULA 7", "FORMULA 2"]   
+        },
+        {
+            "brand": "LOWENHART",
+            "rims": ["XIR", "BR5", "LDR", "LC1"]   
+        },
+        {
+            "brand": "TENZO",
+            "rims": ["PSYCHO", "RS-5", "SHU 10"]   
+        },
+        {
+            "brand": "TSW",
+            "rims": ["MONDELLO", "ROCKET 5", "LAGUNA"]   
+        },
+        {
+            "brand": "VOLK",
+            "rims": ["TE37", "CE28", "GT-P"]   
+        },
+        {
+            "brand": "WORK",
+            "rims": ["VS-SS", "VS-KF", "EUROLINE S2H", "EUROLINE FE"]   
+        },
+        {
+            "brand": "ENKEI",
+            "rims": ["NT03+M", "J-SPEED 3", "ES TARMAC", "WRC TARMAC"]   
+        }
+    ]
+}

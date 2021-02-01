@@ -1,0 +1,21 @@
+    {
+      "Name": "LICENSEPLATE_MING",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "LICENSEPLATE_MING"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 2558751714,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25632,
+          "Strings": []
+        }
+      ]
+    }
